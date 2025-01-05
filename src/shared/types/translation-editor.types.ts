@@ -1,4 +1,3 @@
-// translation editor types
 
 export interface TreeNode {
   label: string;
