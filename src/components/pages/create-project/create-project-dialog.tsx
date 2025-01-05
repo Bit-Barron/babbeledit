@@ -1,5 +1,5 @@
 import React from "react";
-import { PROJECT_CONFIGS } from "@/shared/configs/project-config";
+import { PROJECT_CONFIGS } from "@/shared/configs/config";
 import { MyDialog } from "@/components/ui/custom-dialog";
 import { FileUpload } from "@/components/pages/create-project/create-project-file-upload";
 import { LanguageDisplay } from "@/components/pages/create-project/create-project-language-list";
